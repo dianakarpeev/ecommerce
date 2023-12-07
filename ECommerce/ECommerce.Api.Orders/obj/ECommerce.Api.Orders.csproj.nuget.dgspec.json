@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
+    "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
+    "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectUniqueName": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "projectName": "ECommerce.Api.Orders",
-        "projectPath": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectPath": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "packagesPath": "C:\\Users\\lyonf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Orders\\obj\\",
+        "outputPath": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Orders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.32, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
             }
           },
           "imports": [

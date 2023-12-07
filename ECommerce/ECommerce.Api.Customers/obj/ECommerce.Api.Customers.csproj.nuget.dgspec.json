@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj": {}
+    "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj": {
+    "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
+        "projectUniqueName": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
         "projectName": "ECommerce.Api.Customers",
-        "projectPath": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
+        "projectPath": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
         "packagesPath": "C:\\Users\\lyonf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lyonf\\Desktop\\fall2023\\webprog\\labs\\ECommerce\\ECommerce.Api.Customers\\obj\\",
+        "outputPath": "C:\\Users\\lyonf\\source\\repos\\ecommerce\\ECommerce\\ECommerce.Api.Customers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.32, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
             }
           },
           "imports": [
